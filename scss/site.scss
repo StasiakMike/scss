@@ -1,0 +1,17 @@
+@import "vendor/bootstrap/functions";
+@import "vendor/bootstrap/variables";
+@import "vendor/bootstrap/mixins";
+
+.my-class {
+    background-image: linear-gradient(to right, #fe8c00
+    , #f83600);
+}
+
+.my-background {
+    background-image: linear-gradient(#780206, #061161);
+}
+
+.my-jumbo {
+    background-image: linear-gradient(to right, #fe8c00
+    , #f83600);
+}
